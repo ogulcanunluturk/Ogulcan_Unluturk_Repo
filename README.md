@@ -1,4 +1,4 @@
-# GAIH Student Repo Example
+# GAIH Ogulcan Unluturk Repo
 ![](img/newlogo.png)
 
 **Course Date:** 08.03.2021 
